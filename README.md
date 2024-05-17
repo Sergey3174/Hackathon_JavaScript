@@ -1,1 +1,1 @@
-# Hackathon_JavaScript
+# Hackaton #1
